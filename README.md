@@ -1,4 +1,4 @@
-# 🛶 Uncharted Journeys: Analyzing UK Small Boat Immigration
+# 🛶 Illegal Immigration Trends: Analyzing UK Small Boat Crossings (2018–2024)
 This project explores trends in illegal immigration to the UK via small boats, using datasets from [Migration Watch UK](https://www.migrationwatchuk.org/channel-crossings-tracker). The analysis leverages advanced data cleaning, transformation, and visualization techniques to uncover key insights into immigration patterns and government interventions.
 
 ## 🎯 Objective

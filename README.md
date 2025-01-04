@@ -1,8 +1,8 @@
-# 🛶 Illegal Immigration Trends: Analyzing UK Small Boat Crossings (2018–2024)
+# 🛶 Illegal Immigration Trends: Analyzing UK Small Boat Crossings 
 This project explores trends in illegal immigration to the UK via small boats, using datasets from [Migration Watch UK](https://www.migrationwatchuk.org/channel-crossings-tracker). The analysis leverages advanced data cleaning, transformation, and visualization techniques to uncover key insights into immigration patterns and government interventions.
 
 ## 🎯 Objective
-To analyze and visualize data on illegal immigrants entering the UK by small boats, focusing on trends over time, nationalities involved, and the impact of government measures.
+To analyze and visualize data on illegal immigrants entering the UK by small boats from 2018-2024, focusing on trends over time, nationalities involved, and the impact of government measures.
 
 ## 📊 Project Steps
 

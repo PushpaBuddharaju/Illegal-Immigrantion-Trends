@@ -33,8 +33,9 @@ To analyze and visualize data on illegal immigrants entering the UK by small boa
 ### 📈 Data Visualization in Tableau
 - Loaded each table into Tableau as a separate data source to avoid inter-table relationships.
 - Created five key visualizations:
-  1. **Stacked Column Chart**: Number of immigrants by year and quarter.
-     ![image](https://github.com/user-attachments/assets/daeef033-38cd-47a4-808b-bc2dc67938f1)
+  1. **Line Chart**: Number of immigrants by year and quarter.
+     ![image](https://github.com/user-attachments/assets/c1d94459-dd91-4a56-b9d6-5866cfee2a2c)
+
      
       - The chart shows a significant rise in illegal immigrants from 2018, peaking in 2022 with over 45,000 migrants.
       - Q3 consistently contributed the most migrants each year. After 2022, numbers declined in 2023 and 2024, stabilizing around 30,000–35,000.
@@ -50,11 +51,11 @@ To analyze and visualize data on illegal immigrants entering the UK by small boa
        -  Other notable groups include Albania (14,419), Syria (8,025), Eritrea (7,803), and Sudan (5,247).
        -  The interactive year filter highlights trends over time. 
 
-  3. **Bubble Chart**: Types of returns (enforced or voluntary) and their counts (2019–2024).
+  3. **Stacked Column Chart**: Types of returns (enforced or voluntary) and their counts (2019–2024).
      
-     ![image](https://github.com/user-attachments/assets/20ab9215-0982-412a-8f97-7b8bf962a972)
+     ![image](https://github.com/user-attachments/assets/3824f62f-e609-4693-94c1-6ef78cbece3b)
 
-      ![image](https://github.com/user-attachments/assets/797a0e26-0f68-4dbe-9e5a-60e519ca6e46)
+    ![image](https://github.com/user-attachments/assets/48baef8b-900b-4480-ac44-09720a73b8cb)
 
      - Voluntary returns (orange) consistently outnumber enforced returns (blue), peaking at 10,598 in 2022.
      -  Enforced returns peaked in 2019 (5,297) but declined afterward. Both categories dropped significantly by 2023.
@@ -75,9 +76,10 @@ To analyze and visualize data on illegal immigrants entering the UK by small boa
      - The issue remains a significant challenge for the UK government.
 
 - Combined these visuals into an interactive **dashboard** for better insights.
+  
 
-  ![image](https://github.com/user-attachments/assets/2bdc111a-3c69-4548-b006-eb4367cecb33)
-
+  ![image](https://github.com/user-attachments/assets/47b83003-f4a6-4eef-84b0-6934907617cc)
+  
 
 ## 🛠️ Tools and Technologies
 - **Excel**: Data cleaning and initial transformations.

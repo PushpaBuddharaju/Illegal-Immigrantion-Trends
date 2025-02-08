@@ -1,4 +1,4 @@
-# 🛶 Illegal Immigration Trends: Analyzing UK Small Boat Crossings 
+# 🛶 Crossing the Channel: A Data-Driven Look at Illegal Immigration 
 This project explores trends in illegal immigration to the UK via small boats, using datasets from [Migration Watch UK](https://www.migrationwatchuk.org/channel-crossings-tracker). The analysis leverages advanced data cleaning, transformation, and visualization techniques to uncover key insights into immigration patterns and government interventions.
 
 ## 🎯 Objective
